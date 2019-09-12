@@ -1,16 +1,7 @@
-# flutter_waterfall
+# Flutter Waterfall App UI
 
-A new Flutter application.
+![test2](https://user-images.githubusercontent.com/23746859/64781578-dbf51600-d56b-11e9-9ce3-de4a2216f641.gif)
 
-## Getting Started
+![bd8e170ee22e3cd1fadcaf437b2e1a60](https://user-images.githubusercontent.com/23746859/64781694-270f2900-d56c-11e9-94ad-30806cbd627f.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+For The Design : https://dribbble.com/shots/7116880/attachments/119671?mode=media
